@@ -1,4 +1,4 @@
-# Computer_Graphics
+# Computer_Graphics Practical List
 
 #### 1. Write a program to implement DDA and Bresenham’s line drawing algorithm. 
 
